@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/markbr88/Desarrollo/Progs-ESP32/Proyecto-SIM-Tiro/Intrrup-TX-IR/build/CMakeFiles/bootloader
+/home/markbr88/Desarrollo/Progs-ESP32/Proyecto-SIM-Tiro/Intrrup-TX-IR/build/CMakeFiles/bootloader.rule
+/home/markbr88/Desarrollo/Progs-ESP32/Proyecto-SIM-Tiro/Intrrup-TX-IR/build/CMakeFiles/bootloader-complete.rule
+/home/markbr88/Desarrollo/Progs-ESP32/Proyecto-SIM-Tiro/Intrrup-TX-IR/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/markbr88/Desarrollo/Progs-ESP32/Proyecto-SIM-Tiro/Intrrup-TX-IR/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/markbr88/Desarrollo/Progs-ESP32/Proyecto-SIM-Tiro/Intrrup-TX-IR/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/markbr88/Desarrollo/Progs-ESP32/Proyecto-SIM-Tiro/Intrrup-TX-IR/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/markbr88/Desarrollo/Progs-ESP32/Proyecto-SIM-Tiro/Intrrup-TX-IR/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/markbr88/Desarrollo/Progs-ESP32/Proyecto-SIM-Tiro/Intrrup-TX-IR/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/markbr88/Desarrollo/Progs-ESP32/Proyecto-SIM-Tiro/Intrrup-TX-IR/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
